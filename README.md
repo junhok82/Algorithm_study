@@ -4,6 +4,8 @@
 > ##### Member
 > ##### How the study works
 > ##### Rules
+> ##### Labels
+> ##### Projects
 
 <br>
 
@@ -33,3 +35,21 @@ __2. Online study__
 > ##### 문제 미해결 : 음료값 내기
 > ##### (문제 미해결 기준 : 다수결로 정하기)
 > ##### 추가 규칙 있을 시 회의
+
+<br>
+
+### Lables
+> ##### Issue : 해결 할 문제 
+> ##### metting : 미팅 장소 & 일시
+> ##### solving : 풀이 과정
+> ##### alternative : 다른 풀이 방법
+> ##### help wanted : 도움 요청 및 질문
+> ##### bug
+
+<br>
+
+### Projects
+> ##### DP(Dynamic Programing)
+> ##### Greedy
+> ##### DFS(Depth-First-Search)
+> ##### BFS(Breadth-First-Search)
