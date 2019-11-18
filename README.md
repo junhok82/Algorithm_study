@@ -1,12 +1,12 @@
-Algorithm study to improve skills
-================
----
+# Algorithm study to improve skills
+
 ### Contents
-> #####  Member
-> #####  How the study works
-> #####  Rules
+> ##### Member
+> ##### How the study works
+> ##### Rules
 
 <br>
+
 ### Member
 > (가나다 순)
 > ##### 김민제 // 25 // 성수
@@ -15,6 +15,7 @@ Algorithm study to improve skills
 > ##### 신세규 // 28 // 성남
 
 <br>
+
 ### How the study works
 __1. Offline study__
 > Where : 강남
@@ -27,6 +28,7 @@ __2. Online study__
 > Issue : 그 주차 문제 중 하나
 
 <br>
+
 ### Rules
 > 지각 : 10분 당 천원
 > 문제 미해결 : 음료값 내기
