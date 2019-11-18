@@ -17,19 +17,19 @@
 
 ### How the study works
 __1. Offline study__
-> Where : 강남 <br>
-> When : 일요일 4시 <br>
-> Issue : 그 주차 문제 <br>
+> ##### Where : 강남
+> ##### When : 일요일 4시
+> ##### Issue : 그 주차 문제
 
 __2. Online study__
-> How works : Through Github <br>
-> When : 월요일 ~ 토요일 <br>
-> Issue : 그 주차 문제 중 하나 <br>
+> ##### How works : Through Github
+> ##### When : 월요일 ~ 토요일
+> ##### Issue : 그 주차 문제 중 하나
 
 <br>
 
 ### Rules
-> 지각 : 10분 당 천원 <br>
-> 문제 미해결 : 음료값 내기 <br>
-> (문제 미해결 기준 : 다수결로 정하기) <br>
-> 추가 규칙 있을 시 회의 <br>
+> ##### 지각 : 10분 당 천원
+> ##### 문제 미해결 : 음료값 내기
+> ##### (문제 미해결 기준 : 다수결로 정하기)
+> ##### 추가 규칙 있을 시 회의
