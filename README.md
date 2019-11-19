@@ -37,7 +37,7 @@ __1. Offline study__
 > ##### 추가 규칙 있을 시 회의
 __2. Online study__
 > ##### branch : 이름 이니셜_출처_문제번호 (ex KJH_BOJ_1963)
-> ##### pull request : 라벨 **solving**은 default | **alternative**는 대체 코드 올렸을 시 태그 | merge & close는 토요일 12시 밤
+> ##### pull request : 라벨 `solving`은 default | `alternative`는 대체 코드 올렸을 시 태그 | merge & close는 토요일 12시 밤
 > ##### 문제 미해결 : 음료값 내기
 > ##### (문제 미해결 기준 : 다수결로 정하기)
 
