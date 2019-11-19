@@ -43,6 +43,7 @@ __2. Online study__
 > ##### metting : 미팅 장소 & 일시
 > ##### solving : 풀이 과정
 > ##### alternative : 다른 풀이 방법
+> ##### beginner : 기초문제
 > ##### help wanted : 도움 요청 및 질문
 > ##### bug
 
