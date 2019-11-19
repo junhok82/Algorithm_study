@@ -22,7 +22,6 @@ __1. Offline study__
 > ##### Where : 강남
 > ##### When : 일요일 4시
 > ##### Issue : 그 주차 문제
-
 __2. Online study__
 > ##### How works : Through Github
 > ##### When : 월요일 ~ 토요일
@@ -39,7 +38,8 @@ __2. Online study__
 <br>
 
 ### Lables
-> ##### Issue : 해결 할 문제 
+> ##### issue : 해결 할 문제 
+> ##### optional : 재량 껏 선택 문제
 > ##### metting : 미팅 장소 & 일시
 > ##### solving : 풀이 과정
 > ##### alternative : 다른 풀이 방법
