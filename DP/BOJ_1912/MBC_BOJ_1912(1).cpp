@@ -2,6 +2,7 @@
 #include <vector>
 using namespace std;
 
+
 // variable init
 vector<long long int> dp;
 vector<long long int> v;
