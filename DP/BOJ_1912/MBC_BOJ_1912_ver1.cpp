@@ -2,7 +2,6 @@
 #include <vector>
 using namespace std;
 
-
 // variable init
 vector<long long int> dp;
 vector<long long int> v;
@@ -10,8 +9,8 @@ int N;
 long long int mx = -1000;
 
 /*
-ìŠ¤íƒì˜¤ë²„í”Œë¡œìš°ë¡œ ì¸í•œ ì‹¤íŒ¨
-Nì´ 5000ì´ìƒì´ë©´ ìŠ¤íƒì´ ìŒ“ì—¬ ë„ì¤‘ì— ì¤‘ë‹¨ë¨.
+½ºÅÃ¿À¹öÇÃ·Î¿ì·Î ÀÎÇÑ ½ÇÆĞ
+NÀÌ 5000ÀÌ»óÀÌ¸é ½ºÅÃÀÌ ½×¿© µµÁß¿¡ Áß´ÜµÊ.
 */
 void BinarySearch1(int i, long long int sum) {
 
@@ -19,22 +18,22 @@ void BinarySearch1(int i, long long int sum) {
 
 	if (sum_temp < dp[i])
 		return;
-	
+
 	// Update dp[i](max value)
-	if (sum_temp > dp[i]) 
+	if (sum_temp > dp[i])
 		dp[i] = sum_temp;
 
 	// Searching for max value
 	if (dp[i] > mx)
 		mx = dp[i];
-	
+
 	if (i > N - 2)
 		return;
 
 	BinarySearch1(i + 1, dp[i]);
 
-	if (v[i + 1] < 0 && i < N-3)
-		BinarySearch1(i + 2, 0);	
+	if (v[i + 1] < 0 && i < N - 3)
+		BinarySearch1(i + 2, 0);
 }
 
 int main() {
@@ -43,13 +42,17 @@ int main() {
 
 	for (int i = 0; i < N; i++)
 		cin >> v[i];
-	
+
+
 	// duplicate Input vector
 	dp = v;
 
 	Binary search
 	BinarySearch(0, 0);
-	
+
+	if (dp[0] > mx)
+		mx = dp[0];
+
 	cout << mx;
 
 	return 0;

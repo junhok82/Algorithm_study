@@ -2,12 +2,15 @@
 #include <vector>
 using namespace std;
 
-
 // variable init
 vector<long long int> dp;
 vector<long long int> v;
 int N;
 long long int mx = -1000;
+
+/*
+╧ыер╬В ╧Ф╫д
+*/
 
 int main() {
 	cin >> N;
@@ -15,6 +18,7 @@ int main() {
 
 	for (int i = 0; i < N; i++)
 		cin >> v[i];
+	
 
 	// duplicate Input vector
 	dp = v;
@@ -37,3 +41,4 @@ int main() {
 
 	return 0;
 }
+
