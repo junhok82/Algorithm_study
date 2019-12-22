@@ -22,7 +22,6 @@ int main() {
 
 	}
 
-
 	for (int i = 0; i < N; i++) {
 	
 		if (v[i].first > K)
@@ -49,7 +48,7 @@ int main() {
 				mx = tmp.second;
 		}
 	}
-    
+
 
 
 	cout << mx;
