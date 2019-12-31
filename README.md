@@ -1,7 +1,7 @@
 
 # Algorithm study to improve skills
 
-6주차까지 git 연습 겸 매번 branch를 생성해서 pull request를 진행했는데, 7주차부터는 branch를 주차별로 만들어서 진행(추가)
+6주차까지 git 연습 겸 매번 branch를 생성해서 pull request를 진행했는데 7주차부터는 branch를 주차별로 만들어서 진행
 
 -----------------------
 
