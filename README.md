@@ -1,7 +1,13 @@
 
 # Algorithm study to improve skills
 
-6주차까지 git 연습 겸 매번 branch를 생성해서 pull request를 진행했는데 7주차부터는 branch를 주차별로 만들어서 진행
+6주차까지 git 연습 겸 매번 branch를 생성해서 pull request를 진행했는데,
+7주차부터는 branch를 workspace별 생성해서 진행.
+
+1. 매주 문제 푸는 branch
+2. optional 하게 문제 푸는 branch
+
+총 두개를 이용해서 앞으로 pull request할 예정
 
 -----------------------
 
