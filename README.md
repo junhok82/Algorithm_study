@@ -1,13 +1,9 @@
 
 # Algorithm study to improve skills
-
-6주차까지 git 연습 겸 매번 branch를 생성해서 pull request를 진행했는데,
-7주차부터는 branch를 workspace별 생성해서 진행.
-
-1. 각자의 workspace에 대한 branch (영문 이니셜로 진행)
-
-이 branch 이용해서 앞으로 pull request할 예정
-
+```
+6주차까지 git 연습 겸 매번 branch를 생성해서 pull request 함.
+7주차부터는 branch를 각자 영문 이니셜의 workspace 생성해서 진행.
+```
 -----------------------
 
 ### Contents
