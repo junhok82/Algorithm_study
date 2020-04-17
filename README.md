@@ -17,9 +17,9 @@
 
 ### Member (가나다 순)
 > ##### 김민제 // 25 // 성수 : 
-> ##### 김준호 // 26 // 부천 : [blog](https://junhok82.github.io/)
-> ##### 민병찬 // 25 // 구로 : [blog](https://minbyeongchan.github.io)
-> ##### 신세규 // 28 // 성남 : [blog](https://sekyushin.github.io/)
+> ##### 김준호 // 26 // 부천 : 
+> ##### 민병찬 // 25 // 구로 : 
+> ##### 신세규 // 28 // 성남 : 
 
 <br>
 
